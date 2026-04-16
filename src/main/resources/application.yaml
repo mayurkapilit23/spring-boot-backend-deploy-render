@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: spring-boot-backend-deploy-render
+server:
+  port: 8080
